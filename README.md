@@ -1,7 +1,4 @@
-
 ![I am GitHub Readme Generator's creator](https://i.ibb.co/BN6Qt74/White-Minimalist-Profile-Linked-In-Banner.png)
-
-
 <h1 align="center">Hi 👋, I'm MD RIFAT</h1>
 <h3 align="center">Web developer</h3>
 
