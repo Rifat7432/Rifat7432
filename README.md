@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **md.rifat.taluckdar@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qrPXorWja9EEMmkSZ4aReANtShegYXgb/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lzjmgczmfNrY51MCnmI-_TPZQF8ImDZS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
