@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://i.ibb.co/0GRgpQm/linkedin-banar.jpg)
 <h1 align="center">Hi 👋, I'm MD RIFAT</h1>
-<h3 align="center">Web developer</h3>
-
+<h3 align="center">Full Stack Developer</h3>
+<p>With a focus on modern web technologies, I am aiming to contribute to innovative and impactful projects in the field of web development. Driven by a passion for continuous learning and adaptation, his goal is to support the creation of efficient, scalable, and user-friendly applications that enhance digital experiences</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat7432&label=Profile%20views&color=0e75b6&style=flat" alt="rifat7432" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifat7432" alt="rifat7432" /></a> </p>
