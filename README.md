@@ -7,7 +7,7 @@ Full Stack Developer | Web & Mobile App Developer
 </h3>
 
 <p align="center">
-Passionate Full Stack Developer with 2+ years of experience building scalable web applications and mobile apps. Skilled in developing high-performance solutions using JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and React Native. I focus on creating clean architectures, seamless user experiences, secure systems, and efficient backend solutions.
+Passionate Full Stack Developer with nearly 2 years of experience building scalable web applications and mobile apps. Skilled in developing high-performance solutions using JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and React Native. I focus on creating clean architectures, seamless user experiences, secure systems, and efficient backend solutions.
 </p>
 
 <p align="center">
